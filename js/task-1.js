@@ -6,7 +6,7 @@ const customer = {
   // Change code below this line
 
 
-  getBalance(){
+  getBalance() {
     return this.balance;
   },
   
